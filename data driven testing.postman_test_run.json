@@ -1,0 +1,204 @@
+{
+	"id": "a652acf7-47cf-4184-b6c2-ae49534cd36f",
+	"name": "Project#5 - data driven testing",
+	"timestamp": "2025-03-11T17:38:11.873Z",
+	"collection_id": "39612455-5a6a26a1-1486-40c7-908d-0deaf1e02767",
+	"folder_id": 0,
+	"environment_id": "39612455-ed53b548-226b-46b4-a25c-7f1dc0915b23",
+	"totalPass": 60,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2025-03-11T17:38:00.788Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "0d2c71e7-04b9-4d5d-b0d8-dd5de5c4e031",
+			"name": "New Request",
+			"url": "https://reqres.in/api/register/preprod",
+			"time": 277,
+			"responseCode": {
+				"code": 201,
+				"name": "Created"
+			},
+			"tests": {
+				"Status code is 201": true,
+				"To verify that booking ID is not null": true
+			},
+			"testPassFailCounts": {
+				"Status code is 201": {
+					"pass": 30,
+					"fail": 0
+				},
+				"To verify that booking ID is not null": {
+					"pass": 30,
+					"fail": 0
+				}
+			},
+			"times": [
+				318,
+				281,
+				386,
+				294,
+				309,
+				284,
+				280,
+				281,
+				288,
+				291,
+				273,
+				273,
+				282,
+				280,
+				284,
+				326,
+				281,
+				277,
+				292,
+				285,
+				280,
+				272,
+				275,
+				278,
+				276,
+				274,
+				325,
+				281,
+				279,
+				277
+			],
+			"allTests": [
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				},
+				{
+					"Status code is 201": true,
+					"To verify that booking ID is not null": true
+				}
+			]
+		}
+	],
+	"count": 30,
+	"totalTime": 8682,
+	"collection": {
+		"requests": [
+			{
+				"id": "0d2c71e7-04b9-4d5d-b0d8-dd5de5c4e031",
+				"method": "POST"
+			}
+		]
+	}
+}
